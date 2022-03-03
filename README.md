@@ -1,4 +1,4 @@
-# docker_practice
+# docker_practiceの解説およびDockerについてのメモ
 
 ## コンテナ起動
 
