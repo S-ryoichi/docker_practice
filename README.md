@@ -1,7 +1,10 @@
 # docker_practiceの解説およびDockerについてのメモ
 
-参考
-[Docker超入門講座 合併版 | ゼロから実践する4時間のフルコース](https://www.youtube.com/watch?v=lZD1MIHwMBY&t=6693s)
+PythonのFlaskを使って，Webを立ち上げてみるだけのプログラム
+
+一応Dockerfileも書いている
+
+参考：[Docker超入門講座 合併版 | ゼロから実践する4時間のフルコース](https://www.youtube.com/watch?v=lZD1MIHwMBY&t=6693s)
 
 ## コンテナ起動
 
