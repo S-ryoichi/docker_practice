@@ -1,5 +1,8 @@
 # docker_practiceの解説およびDockerについてのメモ
 
+参考
+[Docker超入門講座 合併版 | ゼロから実践する4時間のフルコース](https://www.youtube.com/watch?v=lZD1MIHwMBY&t=6693s)
+
 ## コンテナ起動
 
 以下のコマンドでイメージの作成およびコンテナ起動が可能
