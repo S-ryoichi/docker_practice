@@ -17,7 +17,7 @@ PythonのFlaskを使って，Webを立ち上げてみるだけのプログラム
 > docker container run -d -p 8080:8000 --name docker_flask docker_flask/practice:latest
 ```
 
-![docker image build](./img/docker_image.png)
+![docker image build](./img/image_build.png)
 
 ![docker container run](./img/container_run.png)
 
