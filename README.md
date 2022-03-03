@@ -17,6 +17,10 @@ PythonのFlaskを使って，Webを立ち上げてみるだけのプログラム
 > docker container run -d -p 8080:8000 --name docker_flask docker_flask/practice:latest
 ```
 
+![docker image build](./img/docker_image.png)
+
+![docker container run](./img/container_run.png)
+
 ## ブラウザ閲覧方法
 
 ブラウザを立ち上げて、以下のURLにアクセスする。
@@ -25,6 +29,7 @@ PythonのFlaskを使って，Webを立ち上げてみるだけのプログラム
 
 [index.html](./templates/index.html)の中身が表示されていたら成功
 
+![browse](./img/browse.png)
 
 ## コンテナ動作状況確認
 
