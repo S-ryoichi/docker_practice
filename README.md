@@ -77,7 +77,7 @@ PythonのFlaskを使って，Webを立ち上げてみるだけのプログラム
 停止中のコンテナを一度に削除することができる。
 
 ```
-> docker container system prume
+> docker container system prune
 ```
 
 覚えておくとよいだろう。
